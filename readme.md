@@ -16,3 +16,4 @@ Technologies used:
 - HTML
 - CSS
 
+This project was created for the Software Engineering course assignment No 1.
